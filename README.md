@@ -1,6 +1,6 @@
 # to-do-list
 
-To visit the app click here ---> ()
+To visit the app click here ---> (https://mirhoda.github.io/to-do-list/)
 
 Task - 1
 
@@ -23,4 +23,7 @@ Built using:
           JavaScript
           
           
- Screnshot attached - 
+ Screnshot attached - ![to_do_list](https://user-images.githubusercontent.com/83762588/128316448-cb9b5a1b-f0c7-4216-aa0f-bc49fdc1f6cd.JPG)
+
+
+
