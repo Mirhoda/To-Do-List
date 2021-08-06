@@ -13,7 +13,6 @@ Steps to follow
 3. Check whether there is some input or not.(create alert message)
 4. After adding it should display(latest on the top).
 5. Change the status from done to undone & vice-versa.
-6. User can delet any item after adding(trash button to be given).
 
 
 
@@ -23,7 +22,7 @@ Built using:
           JavaScript
           
           
- Screnshot attached - ![to_do_list](https://user-images.githubusercontent.com/83762588/128316448-cb9b5a1b-f0c7-4216-aa0f-bc49fdc1f6cd.JPG)
+ Screnshot attached - ![to_do_list](https://user-images.githubusercontent.com/83762588/128520136-ab8f92e2-d6b3-4c48-b444-4545e8e305b0.JPG)
 
 
 
