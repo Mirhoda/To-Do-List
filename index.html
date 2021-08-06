@@ -1,27 +1,24 @@
 <!DOCTYPE html>
-<html>
-    <head>
-            <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-            <meta name="viewport" content="width=device-width, initial-scale=1"/>
-            <link rel="stylesheet" href="styles.css"/>
-            <script src="https://kit.fontawesome.com/29ee0bc57e.js" crossorigin="anonymous"> // pull the trash icon
-            </script>
-            <title>ToDo List - Mobinul</title>
-        </head>
-        <body>
-            <main>
-            <header>
-                <h1>To Do List</h1>
-                <input type="text" id="myInput" placeholder="Things to be done" />
-                <span class="addBtn" id="add_button">Add</span>
-            </header>
-            <ul id="myUL">
-                
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-            </ul>
-            <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>To Do List - Mobinul</title>
+</head>
+<body>
+    <main>
+        <h1>To Do List</h1>
+        <div class="container">
+            <input id="inputField" type="text"><button class="addBtn"id="addToDo">Add</button>
             <input class="rBtn" type="reset" value="Reset" onClick="window.location.reload()">
-        </main>
+            <div class="to-dos" id="toDoContainer">
+    
+            </div>
+        </div>
+        <script src="main.js"></script>
         
-    </body>
+    </main>
+</body>
 </html>
