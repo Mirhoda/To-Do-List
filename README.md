@@ -14,7 +14,10 @@ Steps to follow
 4. After adding it should display(latest on the top).
 5. Change the status from done to undone & vice-versa.
 
+Functions:
 
+1. Single click to complete the work for the day.
+2. Double click for permanently completing the work.
 
 Built using: 
           HTML5
