@@ -25,7 +25,7 @@ Built using:
           JavaScript
           
           
- Screnshot attached - ![to_do_list](https://user-images.githubusercontent.com/83762588/128520136-ab8f92e2-d6b3-4c48-b444-4545e8e305b0.JPG)
+  ![to_do_list](https://user-images.githubusercontent.com/83762588/128520136-ab8f92e2-d6b3-4c48-b444-4545e8e305b0.JPG)
 
 
 
