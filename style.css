@@ -8,13 +8,14 @@ body{
 .container {
     width: 360px;
     margin-top: 45px;
-    margin-left: 530px;
+    margin-left: 500px;
+    
 }
 h1{
   font-size: 70px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
- 
+ text-align: center;
 }
 #inputField {
     width: 300px;
@@ -26,9 +27,15 @@ h1{
     vertical-align: middle;
     margin-bottom: 20px;
 }
-
-
-
+.function{
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  margin-right: 300px;
+  margin-top: 400px;
+  margin-left: 400px;
+  position: absolute;
+}
 .paragraph-styling {
     margin: 0;
     cursor: pointer;
@@ -38,7 +45,7 @@ h1{
 .to-dos {
     margin-top: 25px;
     color: lawngreen;
-    font-size: 50px;
+    font-size: 60px;
 }
 .addBtn {
   display: inline-block;
@@ -80,3 +87,14 @@ h1{
     color: #FFF;
   }
   
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+ }
